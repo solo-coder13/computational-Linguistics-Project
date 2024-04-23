@@ -6,3 +6,6 @@ This project proposes a hybrid model combining Transformers and LSTMs for sentim
 Transformers excel at capturing long-range dependencies within sequences, allowing the model to understand the sentiment even when sentiment-indicating words are not close together.
 LSTMs are adept at handling sequential data and capturing contextual information within sentences.
 By combining these techniques, the model aims to achieve a deeper understanding of context and sentiment within text data.
+
+# Design Diagram
+![Screenshot 2024-04-23 133734](https://github.com/solo-coder13/computational-Linguistics-Project/assets/113525473/9baddc4f-a4f3-40c8-88c6-963e6f4a892d)
